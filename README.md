@@ -10,7 +10,7 @@ Criação de transições;
 Simulação de cadeias; 
 Interface gráfica com Tkinter.
 
-## Tecnologias utilizadas
+## tecnologias utilizadas
 Python; 
 Tkinter; 
 PIL.
