@@ -1,20 +1,20 @@
-## Simulador de Autômatos Finitos em Python
+# Simulador de Autômatos Finitos em Python
 
 Projeto acadêmico desenvolvido em Python para simulação de autômatos finitos,
 inspirado na ferramenta JFLAP, como parte dos estudos da disciplina de
 Linguagens Formais e Autômatos.
 
-### Funcionalidades
+## Funcionalidades
 - Criação de estados
-- Definição de transições
+- Criação de transições
 - Simulação de cadeias
 - Interface gráfica com Tkinter
 
-### Tecnologias
+## Tecnologias Utilizadas
 - Python
 - Tkinter
 - PIL (Pillow)
 
-### Observações
-Projeto desenvolvido em contexto acadêmico.
+## Observações
+Projeto desenvolvido em contexto acadêmico.  
 Projeto desenvolvido em grupo.
